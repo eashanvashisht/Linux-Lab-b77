@@ -180,7 +180,7 @@ crontab -e
 ## Challenges Faced & Learning Outcomes
 
 * Challenge 1: Remembering the `crontab` time format. Solved by using online crontab generators and practice.
-* Challenge 2: Ensuring `atd` service is running for `at` command. Fixed by starting the service with `systemctl start atd`.
+* Challenge 2: using `crontab -e` command with proficiency
 
 ### Learning:
 
