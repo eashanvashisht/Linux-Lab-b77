@@ -59,9 +59,10 @@ find "$SYS_INFO" -type f -name "system_info_*.log" -mtime +7 -exec rm {} \;
 
 echo "System info logged to $SYS_F"
 
-
+```
 
 ### **Output:**
+
 ```
 ==========================================
  System Information Log - 2025-10-17 10:00:00
@@ -75,6 +76,7 @@ USER       PID %CPU %MEM COMMAND
 Filesystem      Size  Used Avail Use% Mounted on
 ==========================================
 System info logged to /var/log/sysinfo/system_info_2025-10-17.log
+
 ```
 
 
