@@ -1,0 +1,25 @@
+Mem use  Thursday 02 October 2025 07:42:23 PM IST
+               total        used        free      shared  buff/cache   available
+Mem:            3819        1762        1301          84        1060        2057
+Swap:           2629           0        2629
+--------------------------
+Mem use  Thursday 02 October 2025 07:42:28 PM IST
+               total        used        free      shared  buff/cache   available
+Mem:            3819        1755        1307          84        1060        2063
+Swap:           2629           0        2629
+--------------------------
+Mem use  Thursday 02 October 2025 07:42:33 PM IST
+               total        used        free      shared  buff/cache   available
+Mem:            3819        1762        1301          84        1060        2057
+Swap:           2629           0        2629
+--------------------------
+Mem use  Thursday 02 October 2025 07:42:38 PM IST
+               total        used        free      shared  buff/cache   available
+Mem:            3819        1760        1302          84        1060        2058
+Swap:           2629           0        2629
+--------------------------
+Mem use  Thursday 02 October 2025 07:42:44 PM IST
+               total        used        free      shared  buff/cache   available
+Mem:            3819        1759        1303          84        1060        2059
+Swap:           2629           0        2629
+--------------------------

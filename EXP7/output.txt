@@ -1,0 +1,40 @@
+LOG on Thursday 02 October 2025 07:04:16 PM IST
+    PID COMMAND         %CPU
+   1399 cinnamon        11.8
+   2767 firefox-bin      9.9
+    899 Xorg             3.9
+   3034 Isolated Web Co  1.4
+   2996 Isolated Web Co  1.0
+------------------------------------------
+LOG on Thursday 02 October 2025 07:04:27 PM IST
+    PID COMMAND         %CPU
+   1399 cinnamon        11.7
+   2767 firefox-bin      9.8
+    899 Xorg             3.9
+   3034 Isolated Web Co  1.4
+   2996 Isolated Web Co  1.0
+------------------------------------------
+LOG on Thursday 02 October 2025 07:04:38 PM IST
+    PID COMMAND         %CPU
+   1399 cinnamon        11.7
+   2767 firefox-bin      9.8
+    899 Xorg             3.9
+   3034 Isolated Web Co  1.4
+   2996 Isolated Web Co  1.0
+------------------------------------------
+LOG on Thursday 02 October 2025 07:04:48 PM IST
+    PID COMMAND         %CPU
+   1399 cinnamon        11.7
+   2767 firefox-bin      9.7
+    899 Xorg             3.9
+   3034 Isolated Web Co  1.4
+   2996 Isolated Web Co  1.0
+------------------------------------------
+LOG on Thursday 02 October 2025 07:04:58 PM IST
+    PID COMMAND         %CPU
+   1399 cinnamon        11.7
+   2767 firefox-bin      9.7
+    899 Xorg             3.9
+   3034 Isolated Web Co  1.4
+   2996 Isolated Web Co  1.0
+------------------------------------------
