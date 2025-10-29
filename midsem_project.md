@@ -65,18 +65,25 @@ echo "System info logged to $SYS_F"
 
 ```
 ==========================================
- System Information Log - 2025-10-17 10:00:00
+ System Information Log - Wednesday 29 October 2025 03:42:06 PM IST
 ==========================================
-User: eashan
-Hostname: Eashan
-Uptime: up 2 hours
- Running Processes
-USER       PID %CPU %MEM COMMAND
- Disk Usage
+User: root
+Hostname: eashan-VirtualBox
+Uptime: up 1 hour, 2 minutes
+
+Running Processes
+    ps aux --sort=-%mem | head -10
+    echo
+    echo  Disk Usage
 Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           382M  1.3M  381M   1% /run
+/dev/sda3        24G   12G   12G  50% /
+tmpfs           1.9G   26M  1.9G   2% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.2M  506M   2% /boot/efi
+tmpfs           382M  192K  382M   1% /run/user/1000
 ==========================================
 System info logged to /var/log/sysinfo/system_info_2025-10-17.log
-
 ```
 
 
