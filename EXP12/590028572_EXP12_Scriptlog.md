@@ -100,7 +100,7 @@ fi
 
 ### Output  
 ---
-![47cf586296b1db886ce602ee85343715.png](../_resources/47cf586296b1db886ce602ee85343715.png)
+![47cf586296b1db886ce602ee85343715.png](/EXP12/1.png)
 ---
 
 # ASSIGNMENTS
@@ -132,7 +132,7 @@ fi
 
 ### Output  
 ---
-![517573596b4392d7d401ef9fea16dbd8.png](../_resources/517573596b4392d7d401ef9fea16dbd8.png)
+![517573596b4392d7d401ef9fea16dbd8.png](/EXP12/2.png)
 ---
 
 ## Assignment 2: Scheduling Using Cron
@@ -155,13 +155,6 @@ Make executable:
 chmod +x /path/to/expert_system.sh
 ```
 
-### Output  
----
-![181674084edb11f0cef0b89c81ebb75e.png](../_resources/181674084edb11f0cef0b89c81ebb75e.png)
-![87187990f611467aaa7f9e2d5839e913.png](../_resources/87187990f611467aaa7f9e2d5839e913.png)
-![5553d75f948675cb54a59998ba2fff2b.png](../_resources/5553d75f948675cb54a59998ba2fff2b.png)
----
-
 ## Assignment 3: Multi-Recommendation System
 
 ### Task Statement
@@ -183,11 +176,6 @@ for s in $symptoms; do
     done
 done
 ```
-
-### Output  
----
-![cfa709ff5078847e52185119b0c58267.png](../_resources/cfa709ff5078847e52185119b0c58267.png)
----
 
 ## Result
 The rule-based expert system was successfully built.  
